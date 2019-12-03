@@ -2,7 +2,7 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
+title: 'Saket Khandelwal'
 description: 'I am amazing.'
 
 # Images
@@ -12,30 +12,30 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+facebook: 'https://www.facebook.com/Saketk7'
+#twitter: 'mytwitter'
+linkedin: 'https://www.linkedin.com/in/saketdecade17/'
+instagram: 'https://www.instagram.com/saket_kh17/'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+#youtube: 'myyoutube'
+github-user: 'https://github.com/saket404'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
 #soundcloud: ''
 #lastfm: ''
-#stack-overflow: ''
+stack-overflow: 'https://stackoverflow.com/users/6119979/saket-khandelwal'
 #reddit: ''
 #rubygems: ''
-#medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+medium:  'https://medium.com/@saketdecade17'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+email: 'saketdecade17@gmail.com'
+messenger: 'https://www.messenger.com/t/Saketk7'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, instagram, linkedin, messenger, email, medium, stack-overflow]
 
 # Advanced settings
 plugins:
